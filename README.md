@@ -11,8 +11,8 @@ Here you can find the **public** repository, with some projects, hobbies, ...
     />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-d-oliveira&layout=compact" alt="Top Langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-d-oliveira&layout=compact&theme=dark" alt="Top Langs" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=joaodoliveira" alt="Joao's wakatime stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=joaodoliveira&theme=dark" alt="Joao's wakatime stats" />
 </a>
