@@ -13,6 +13,8 @@ Here you can find the **public** repository, with some projects, hobbies, ...
     alt="Joao's GitHub stats"
     />
 </a>
+<!--
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=joaodoliveira&theme=dark" alt="Joao's wakatime stats" />
 </a>
+-->
