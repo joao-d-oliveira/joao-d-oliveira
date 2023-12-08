@@ -1,7 +1,7 @@
 ### Some things about me
 Here you can find the **public** repository, with some projects, hobbies, ... 
-- 🔭 I’m currently working on simultaneous projects in NLP-NER, DeepLearning & ML in Meteo Models
-- 🎓 Previous work done in Computer Vision
+- 🔭 I’m currently Freelancing working on simultaneous projects in GenAI, CV, Deep Learning
+- 🎓 Previous work done in Computer Vision, Reinforcement Learning, NLP, Regression, ...
 - 🌱 I’m currently learning about Quantum coding, and always eager to learn new things in A.I.  
 - 📫 How to reach me: <a href = "mailto: joaodoliveira@gmail.com">Write me an Email 📧</a>
 
